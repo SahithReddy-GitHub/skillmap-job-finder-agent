@@ -1,0 +1,7 @@
+langchain>=1.0.0
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-tavily
+requests
+pydantic
